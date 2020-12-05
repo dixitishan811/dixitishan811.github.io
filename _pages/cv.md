@@ -33,9 +33,8 @@ tools.
   environments.
 * Maintaining, debugging and optimizing automation programs.
   
-Skills
+Professional Skills
 ======
-**PROFESSIONAL SKILLS**
 
 **Industry Knowledge**
 
