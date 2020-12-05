@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Summer 2020: QUANTUM AI SYSTEMS Data Science
+* **Summer 2020: QUANTUM AI SYSTEMS Data Science**
 
 * Building NLP based solutions for search engines.
 * Testing and deploying various state of the art machine learning models.
@@ -24,9 +24,10 @@ Work experience
   techniques and algorithms.
 
 
-* Fall 2020: RMJ Automation Solution & Training Pvt.Ltd
+* **Fall 2020: RMJ Automation Solution & Training Pvt.Ltd**
+
 * Established company automation methodology, frameworks and
-tools.
+  tools.
 * Developed and implemented cost-effective strategies for updating
   existing applications.
 * Tested, automated and whitelisted software to be used in secure
