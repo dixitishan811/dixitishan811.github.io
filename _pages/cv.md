@@ -35,10 +35,25 @@ tools.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**PROFESSIONAL SKILLS**
 
+**Industry Knowledge**
+
+* Deep Learning
+* Data Analysis
+* Data Structures
+* Cryptography
+
+**Tools & Technologies**
+
+* Python(Programming Language)
+* C++
+* OpenCV
+* spaCy
+**Other Skills**
+
+* Convolutional Neural Networks (CNN)
+* Sentiment Analysis
+* Natural Language Processing (NLP)
+* RNN,LSTM,GRU,BERT,
+* BiLSTM-CRF
