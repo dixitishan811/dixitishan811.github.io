@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. (Hons.) Electronics & Communication, BITS Pilani - Hyderabad Campus 2022(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: QUANTUM AI SYSTEMS Data Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Building NLP based solutions for search engines.
+* Testing and deploying various state of the art machine learning models.
+* Reading and implementing various research papers.
+* Developing and implementing semantic based query searching
+  techniques and algorithms.
+
+
+* Fall 2020: RMJ Automation Solution & Training Pvt.Ltd
+* Established company automation methodology, frameworks and
+tools.
+* Developed and implemented cost-effective strategies for updating
+  existing applications.
+* Tested, automated and whitelisted software to be used in secure
+  environments.
+* Maintaining, debugging and optimizing automation programs.
   
 Skills
 ======
@@ -36,24 +42,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
