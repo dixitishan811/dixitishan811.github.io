@@ -50,6 +50,7 @@ Skills
 * C++
 * OpenCV
 * spaCy
+
 **Other Skills**
 
 * Convolutional Neural Networks (CNN)
