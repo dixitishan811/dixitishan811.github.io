@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Will be posting about the things I learn about AI/ML "
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+###  Will be posting about the things I learn about AI/ML
