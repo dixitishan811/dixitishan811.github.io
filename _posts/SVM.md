@@ -1,7 +1,7 @@
 ---
 title: 'SVM'
 date: 2020-12-06
-permalink: /posts/SVM/
+permalink: /posts/2020/12/SVM/
 
 ---
 <script type="text/javascript"
